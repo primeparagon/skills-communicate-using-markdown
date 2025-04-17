@@ -6,3 +6,8 @@ I have added an H1 Header typing '#'
 ``` bash
 USERNAME=$(whoami)
 ```
+
+- [x] add a header
+- [x] add an image
+- [x] add code
+- [x] add a list
